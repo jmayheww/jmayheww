@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<img src="https://res.cloudinary.com/daq5feofb/image/upload/v1702115811/20171003_133139_1_fddrhz.jpg" 
+alt="cycling-banner" style="width=100%">
+
 <!--
 **jmayheww/jmayheww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
