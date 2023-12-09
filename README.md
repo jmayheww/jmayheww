@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://res.cloudinary.com/daq5feofb/image/upload/v1702118024/Joshua_Mayhew_1_ax8vu4.png" 
+<img src="https://res.cloudinary.com/daq5feofb/image/upload/v1702116134/1690377739612_fkedgg.jpg" 
 alt="cycling-banner" style="width=100%">
 
 <!--
