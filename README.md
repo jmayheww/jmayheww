@@ -12,27 +12,15 @@
 
 # Web and Email Developer Brewing Code, Coffee, and Creativity For Your Next Project 
 
-#### Email Marketing Projects
+### Email Marketing Projects
 
-- **Old Navy (Redesign for Creative Design Purposes Only)**: Promotional. [GitHub](https://github.com/jmayheww/old-navy-cyber-monday-sale) | [Demo](https://old-navy-cyber-monday-sale-promo-template.vercel.app/)
-  ![Old Navy Promo](https://res.cloudinary.com/daq5feofb/image/upload/v1701505843/6_qb3dwx.png)
-  Technologies: HTML, CSS, Litmus, Responsive Design Principles, Email Marketing Best Practices, Photoshop
+| Project | Description | Technologies | Links |
+| ------- | ----------- | ------------ | ----- |
+| ![Old Navy Promo](https://res.cloudinary.com/daq5feofb/image/upload/w_100/v1701505843/6_qb3dwx.png) | **Old Navy (Creative Design)** <br> Promotional Campaign | HTML, CSS, Litmus, Responsive Design, Email Marketing Best Practices, Photoshop | [GitHub](https://github.com/jmayheww/old-navy-cyber-monday-sale) \| [Demo](https://old-navy-cyber-monday-sale-promo-template.vercel.app/) |
+| ![Stride Shoes Promo](https://res.cloudinary.com/daq5feofb/image/upload/w_100/v1701505843/5_ealx9p.png) | **Stride Shoes (Creative Design)** <br> Promotional Campaign | HTML, CSS, Litmus, Responsive Design, Email Marketing Best Practices | [GitHub](https://github.com/jmayheww/stride-suggested) \| [Demo](https://stride-promotional.vercel.app/) |
+| ![Spotify Template](https://res.cloudinary.com/daq5feofb/image/upload/w_100/v1701505842/4_ne96fd.png) | **Spotify (Creative Design)** <br> Transactional Email | HTML, CSS, Litmus, Responsive Design, Email Marketing Best Practices | [GitHub](https://github.com/jmayheww/spotify-reset-password-template) \| [Demo](https://spotify-reset-password-template.vercel.app/) |
+| ![VXX Newsletter](https://res.cloudinary.com/daq5feofb/image/upload/w_100/v1701505843/3_torid4.png) | **VXX (Creative Design)** <br> Newsletter Design | HTML, CSS, Litmus, Responsive Design, Email Marketing Best Practices | [GitHub](https://github.com/jmayheww/VXX-newsletter) \| [Demo](https://vxx-newsletter.vercel.app/) |
 
-- **Stride Shoes (Redesign for Creative Design Purposes Only)**: Promotional. [GitHub](https://github.com/jmayheww/stride-suggested) | [Demo](https://stride-promotional.vercel.app/)
-  ![Stride Shoes Promo](https://res.cloudinary.com/daq5feofb/image/upload/v1701505843/5_ealx9p.png)
-  Technologies: HTML, CSS, Litmus, Responsive Design Principles, Email Marketing Best Practices
-
-... (and so on for other projects)
-
-#### Full-Stack Development Projects
-
-- **Murder Mystery**: Experience the thrill of Murder Mystery. [GitHub](https://github.com/jamesMAwalker/murder-mystery) | [Demo](https://murder-mystery-ielts.vercel.app/)
-  ![Murder Mystery](https://res.cloudinary.com/daq5feofb/image/upload/v1699000580/7_iepciy.png)
-  Technologies: React, TypeScript, Next.js, Clerk, Convex, Tailwind CSS
-
-- **Infinite Eats**: Dynamic inventory management system. [GitHub](https://github.com/jmayheww/infinite-eats) | [Demo](https://infinite-eats.onrender.com/home)
-  ![Infinite Eats](https://res.cloudinary.com/daq5feofb/image/upload/v1699000591/8_fdho3o.png)
-  Technologies: React.js, Ruby on Rails, Stripe API, Bcrypt, PostgreSQL, Tailwind CSS
 
 ### Full-Stack Toolkit
 
