@@ -13,16 +13,17 @@
 # Web and Email Developer Brewing Code, Coffee, and Creativity For Your Next Project 
 
 
-
-
-### Email Marketing Projects
+### Email Marketing Templates
 
 | Project | Description | Technologies | Links |
 | ------- | ----------- | ------------ | ----- |
-| ![Old Navy Promo](https://res.cloudinary.com/daq5feofb/image/upload/w_100/v1701505843/6_qb3dwx.png) | **Old Navy (Creative Design)** <br> Promotional Campaign | HTML, CSS, Litmus, Responsive Design, Email Marketing Best Practices, Photoshop | [GitHub](https://github.com/jmayheww/old-navy-cyber-monday-sale) \| [Demo](https://old-navy-cyber-monday-sale-promo-template.vercel.app/) |
-| ![Stride Shoes Promo](https://res.cloudinary.com/daq5feofb/image/upload/w_100/v1701505843/5_ealx9p.png) | **Stride Shoes (Creative Design)** <br> Promotional Campaign | HTML, CSS, Litmus, Responsive Design, Email Marketing Best Practices | [GitHub](https://github.com/jmayheww/stride-suggested) \| [Demo](https://stride-promotional.vercel.app/) |
-| ![Spotify Template](https://res.cloudinary.com/daq5feofb/image/upload/w_100/v1701505842/4_ne96fd.png) | **Spotify (Creative Design)** <br> Transactional Email | HTML, CSS, Litmus, Responsive Design, Email Marketing Best Practices | [GitHub](https://github.com/jmayheww/spotify-reset-password-template) \| [Demo](https://spotify-reset-password-template.vercel.app/) |
-| ![VXX Newsletter](https://res.cloudinary.com/daq5feofb/image/upload/w_100/v1701505843/3_torid4.png) | **VXX (Creative Design)** <br> Newsletter Design | HTML, CSS, Litmus, Responsive Design, Email Marketing Best Practices | [GitHub](https://github.com/jmayheww/VXX-newsletter) \| [Demo](https://vxx-newsletter.vercel.app/) |
+| ![Old Navy Promo](https://res.cloudinary.com/daq5feofb/image/upload/w_100/v1701505843/6_qb3dwx.png) | **Old Navy (Creative Design)** <br> Promotional Campaign | ![HTML](https://img.shields.io/badge/-HTML-AD9D90) ![CSS](https://img.shields.io/badge/-CSS-AD9D90) ![Litmus](https://img.shields.io/badge/-Litmus-AD9D90) ![Responsive_Design](https://img.shields.io/badge/-Responsive_Design-AD9D90) ![Email_Marketing](https://img.shields.io/badge/-Email_Marketing-AD9D90) ![Photoshop](https://img.shields.io/badge/-Photoshop-AD9D90) | [GitHub](https://github.com/jmayheww/old-navy-cyber-monday-sale) \| [Demo](https://old-navy-cyber-monday-sale-promo-template.vercel.app/) |
+| ![Stride Shoes Promo](https://res.cloudinary.com/daq5feofb/image/upload/w_100/v1701505843/5_ealx9p.png) | **Stride Shoes (Creative Design)** <br> Promotional Campaign | ![HTML](https://img.shields.io/badge/-HTML-AD9D90) ![CSS](https://img.shields.io/badge/-CSS-AD9D90) ![Litmus](https://img.shields.io/badge/-Litmus-AD9D90) ![Responsive_Design](https://img.shields.io/badge/-Responsive_Design-AD9D90) ![Email_Marketing](https://img.shields.io/badge/-Email_Marketing-AD9D90) | [GitHub](https://github.com/jmayheww/stride-suggested) \| [Demo](https://stride-promotional.vercel.app/) |
+| ![Spotify Template](https://res.cloudinary.com/daq5feofb/image/upload/w_100/v1701505842/4_ne96fd.png) | **Spotify (Creative Design)** <br> Transactional Email | ![HTML](https://img.shields.io/badge/-HTML-AD9D90) ![CSS](https://img.shields.io/badge/-CSS-AD9D90) ![Litmus](https://img.shields.io/badge/-Litmus-AD9D90) ![Responsive_Design](https://img.shields.io/badge/-Responsive_Design-AD9D90) ![Email_Marketing](https://img.shields.io/badge/-Email_Marketing-AD9D90) | [GitHub](https://github.com/jmayheww/spotify-reset-password-template) \| [Demo](https://spotify-reset-password-template.vercel.app/) |
+| ![VXX Newsletter](https://res.cloudinary.com/daq5feofb/image/upload/w_100/v1701505843/3_torid4.png) | **VXX (Creative Design)** <br> Newsletter Design | ![HTML](https://img.shields.io/badge/-HTML-AD9D90) ![CSS](https://img.shields.io/badge/-CSS-AD9D90) ![Litmus](https://img.shields.io/badge/-Litmus-AD9D90) ![Responsive_Design](https://img.shields.io/badge/-Responsive_Design-AD9D90) ![Email_Marketing](https://img.shields.io/badge/-Email_Marketing-AD9D90) | [GitHub](https://github.com/jmayheww/VXX-newsletter) \| [Demo](https://vxx-newsletter.vercel.app/) |
+
+
+
 
 ### Full-Stack Development Projects
 
@@ -30,8 +31,6 @@
 | ------- | ----------- | ------------ | ----- |
 | ![Murder Mystery](https://res.cloudinary.com/daq5feofb/image/upload/w_100/v1699000580/7_iepciy.png) | **Murder Mystery** <br> Interactive web app for live-streamed events. Engages participants in decision-making and collaboration. | ![React](https://img.shields.io/badge/-React-AD9D90) ![TypeScript](https://img.shields.io/badge/-TypeScript-AD9D90) ![Next.js](https://img.shields.io/badge/-Next.js-AD9D90) ![Clerk](https://img.shields.io/badge/-Clerk-AD9D90) ![Convex](https://img.shields.io/badge/-Convex-AD9D90) ![Tailwind_CSS](https://img.shields.io/badge/-Tailwind_CSS-AD9D90) | [GitHub](https://github.com/jamesMAwalker/murder-mystery) \| [Demo](https://murder-mystery-ielts.vercel.app/) |
 | ![Infinite Eats](https://res.cloudinary.com/daq5feofb/image/upload/w_100/v1699000591/8_fdho3o.png) | **Infinite Eats** <br> Inventory management system. | ![React.js](https://img.shields.io/badge/-React.js-AD9D90) ![Ruby_on_Rails](https://img.shields.io/badge/-Ruby_on_Rails-AD9D90) ![Stripe_API](https://img.shields.io/badge/-Stripe_API-AD9D90) ![Bcrypt](https://img.shields.io/badge/-Bcrypt-AD9D90) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-AD9D90) ![Tailwind_CSS](https://img.shields.io/badge/-Tailwind_CSS-AD9D90) | [GitHub](https://github.com/jmayheww/infinite-eats) \| [Demo](https://infinite-eats.onrender.com/home) |
-
-
 
 
 ### Full-Stack Toolkit
