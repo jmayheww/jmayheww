@@ -73,7 +73,8 @@
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=jmayheww&theme=dark&border_radius=4.5)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jmayheww&theme=default&border_radius=4.5)](https://git.io/streak-stats)
+
 
 
 
