@@ -5,7 +5,7 @@
   <a href="https://joshmayhew.dev" target="_blank" style="text-decoration: none;">
       <img src="https://img.shields.io/static/v1?&style=flat&logo=react&logoColor=AD9D90&labelColor=white&label=&message=PORTFOLIO&color=AD9D90"/>
   </a>
-  <a href="https://linkedin.com/joshua-mayhew-dev/" target="_blank" style="text-decoration: none;">
+  <a href="www.linkedin.com/in/joshua-mayhew-dev/" target="_blank" style="text-decoration: none;">
      <img src="https://img.shields.io/static/v1?&style=flat&logo=linkedin&logoColor=AD9D90&labelColor=white&label=&message=LINKEDIN&color=AD9D90"/>
   </a>
 </p>
