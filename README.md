@@ -69,7 +69,8 @@
   <img src="https://img.shields.io/badge/-API_Integration-AD9D90?style=flat"/>
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=jmayheww)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jmayheww&theme=dark&border_radius=4.5)](https://git.io/streak-stats)
+
 
 
 
