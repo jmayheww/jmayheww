@@ -33,6 +33,7 @@
 | ![Infinite Eats](https://res.cloudinary.com/daq5feofb/image/upload/w_100/v1699000591/8_fdho3o.png) | **Infinite Eats** <br> Inventory management system. | ![React.js](https://img.shields.io/badge/-React.js-AD9D90) ![Ruby_on_Rails](https://img.shields.io/badge/-Ruby_on_Rails-AD9D90) ![Stripe_API](https://img.shields.io/badge/-Stripe_API-AD9D90) ![Bcrypt](https://img.shields.io/badge/-Bcrypt-AD9D90) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-AD9D90) ![Tailwind_CSS](https://img.shields.io/badge/-Tailwind_CSS-AD9D90) | [GitHub](https://github.com/jmayheww/infinite-eats) \| [Demo](https://infinite-eats.onrender.com/home) |
 
 
+
 ### Full-Stack Toolkit
 
 <div align="left">
