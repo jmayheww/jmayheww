@@ -1,16 +1,40 @@
 
 ![cycling-banner](https://res.cloudinary.com/daq5feofb/image/upload/v1702119674/Joshua_Mayhew_1200_x_342_px_lnmrsf.png)
 
-<p align="center">
+# 👋 Hi, I'm Joshua Mayhew - Web and Email Developer Brewing Code, Coffee, and Creativity For Your Next Project 
+
+As a versatile developer with a passion for email campaigns and full-stack solutions, I'm dedicated to elevating email marketing through dynamic, data-driven approaches.
+
+## 💼 About Me:
+- Full-stack development expertise, especially in web application development.
+- Specialization in responsive email template creation.
+- Proficient in HTML, CSS, JavaScript, and Adobe Creative Suite.
+- Committed to email best practices, including accessibility and deliverability.
+- Strong project management skills in dynamic environments.
+
+## 📧 Email Marketing Expertise:
+- Eye-catching email templates for seamless user experiences.
+- Personalized and automated email campaigns.
+- Rigorous QA for flawless email execution.
+- Collaborative approach with cross-functional teams.
+
+## 🌐 Full-Stack Capabilities:
+- Interactive web applications using React, TypeScript, and Next.js.
+- Robust back-end systems with Ruby on Rails, PostgreSQL, and API integrations.
+- Proficiency with Git for version control.
+
+## 🌟 Why Work With Me:
+- Passion for creative solutions in email marketing and web applications.
+- Focus on seamless user experiences across digital platforms.
+
+<div align="center">
   <a href="https://joshmayhew.dev" target="_blank">
       <img src="https://img.shields.io/static/v1?&style=flat&logo=react&logoColor=AD9D90&labelColor=white&label=&message=PORTFOLIO&color=AD9D90"/>
   </a>
   <a href="https://www.linkedin.com/in/joshua-mayhew-dev/" target="_blank">
      <img src="https://img.shields.io/static/v1?&style=flat&logo=linkedin&logoColor=AD9D90&labelColor=white&label=&message=LINKEDIN&color=AD9D90"/>
   </a>
-</p>
-
-# Web and Email Developer Brewing Code, Coffee, and Creativity For Your Next Project 
+</div>
 
 
 ### Email Marketing Templates
